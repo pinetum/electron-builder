@@ -87,5 +87,5 @@ Section
   SetErrorLevel $0
 
   SetOutPath $EXEDIR
-	RMDir /r $INSTDIR
+
 SectionEnd
